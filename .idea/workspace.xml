@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d664b506-48a5-4ee8-9a9e-a741ed02e3bb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4419e02a-5368-498e-9cb3-060b574256a0" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.1\apache-maven-3.6.1\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27gAQdTvZaa27cYW1f5vrCc3DMq" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15625" />
+    <property name="project.structure.side.proportion" value="0.33678162" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProject\micro-service-demo" />
+      <recent name="D:\IdeaProject\micro-service-demo\micro-service-provider-dept-8001\src\main\resources" />
+      <recent name="D:\IdeaProject\micro-service-demo\micro-service-provider-dept-8001\src\main\java\com\lilei" />
+      <recent name="D:\IdeaProject\micro-service-demo\micro-service-api\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lilei" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerDept80Application">
+    <configuration name="ConsumerDept80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-consumer-dept-80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.ConsumerDept80Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euraka7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-eureka7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.Eureka7001Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="micro-service-eureka7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lilei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.Eureka7002Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-eureka7003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.Eureka7003Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroServiceConsumerDeptFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-consumer-dept-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.MicroServiceConsumerDeptFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDept8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-service-provider-dept-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.ProviderDept8001Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDept8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-service-provider-dept-8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lilei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.ProviderDept8002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderDept8003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-service-provider-dept-8003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lilei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lilei.ProviderDept8003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Euraka7001Application" />
+      <item itemvalue="Spring Boot.Eureka7002Application" />
+      <item itemvalue="Spring Boot.Eureka7003Application" />
+      <item itemvalue="Spring Boot.ConsumerDept80Application" />
+      <item itemvalue="Spring Boot.ProviderDept8001Application" />
+      <item itemvalue="Spring Boot.MicroServiceConsumerDeptFeignApplication" />
+      <item itemvalue="Spring Boot.ProviderDept8002Application" />
+      <item itemvalue="Spring Boot.ProviderDept8003Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProviderDept8003Application" />
+        <item itemvalue="Spring Boot.ProviderDept8002Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d664b506-48a5-4ee8-9a9e-a741ed02e3bb" name="Changes" comment="" />
+      <created>1649731345371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649731345371</updated>
+      <workItem from="1649731346930" duration="1618000" />
+      <workItem from="1649739652557" duration="2030000" />
+      <workItem from="1649741735876" duration="2793000" />
+      <workItem from="1649744547254" duration="3557000" />
+      <workItem from="1649754134094" duration="3473000" />
+      <workItem from="1649811502830" duration="10532000" />
+      <workItem from="1649827200349" duration="3278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="micro-service-consumer-dept-80" />
+        <module name="micro-service-provider-dept-8002" />
+        <module name="micro-service-provider-dept-8001" />
+        <module name="micro-service-consumer-dept-feign" />
+        <module name="micro-service-api" />
+        <module name="micro-service-eureka7003" />
+        <module name="micro-service-provider-dept-8003" />
+        <module name="micro-service-eureka7001" />
+        <module name="micro-service-eureka7002" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="micro-service-api" options="-parameters" />
+      <module name="micro-service-consumer-dept-80" options="-parameters" />
+      <module name="micro-service-consumer-dept-feign" options="-parameters" />
+      <module name="micro-service-eureka7001" options="-parameters" />
+      <module name="micro-service-eureka7002" options="-parameters" />
+      <module name="micro-service-eureka7003" options="-parameters" />
+      <module name="micro-service-provider-dept-8001" options="-parameters" />
+      <module name="micro-service-provider-dept-8002" options="-parameters" />
+      <module name="micro-service-provider-dept-8003" options="-parameters" />
+    </option>
+  </component>
+</project>
